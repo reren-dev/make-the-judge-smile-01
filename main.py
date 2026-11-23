@@ -7,9 +7,8 @@ no wall clock, deterministic: two runs are byte-identical).
 import os
 
 LINE = (
-    "My daughter hid my keys so I couldn't leave for work, then handed "
-    "them back with a drawing of us holding hands and the words "
-    "'stay five minutes'."
+    "This morning I switched my editor to dark mode, and my code compiled "
+    "first try — turns out the bugs were only attracted to the light."
 )
 
 
